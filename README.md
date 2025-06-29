@@ -3,7 +3,7 @@
 ## Setup Instructions
 1. Clone the repository
 ```bash
-git clone github.com/SalmaAzeem/web-assignment-6
+git clone github.com/SalmaAzeem/authorization-rbac
 ```
 
 2. Install required dependencies
