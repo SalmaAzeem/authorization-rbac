@@ -16,7 +16,7 @@ npm install express jsonwebtoken mongoose dotenv bcryptjs lowdb
 
 4. Run the server.
 ```bash
-node app.py
+node app.js
 ```
 
 ## List of Features.
